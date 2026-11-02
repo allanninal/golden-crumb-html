@@ -1,5 +1,9 @@
 # Changelog
 
+## 1.0.2
+
+- Replaced the hero photo, which showed another bakery's name and a coffee chain's logo, with a plain display of loaves; updated the photo credit.
+
 ## 1.0.1
 
 - Lemon olive oil cake no longer labelled vegan.
